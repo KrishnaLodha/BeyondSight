@@ -1,4 +1,4 @@
-name: objectdetectioncv
+name: beyondsight
 channels:
   - defaults
 dependencies:
