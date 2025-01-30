@@ -20,6 +20,9 @@ Audio Assistance: Converts detected text and recognized names into speech using 
 
 Depth Detection: Detects how far is the object
 
+![image](https://github.com/user-attachments/assets/cda9f866-8507-4da6-8f5c-9208e1669e56)
+
+
 
 
 🛠️ Technologies Used
