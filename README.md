@@ -34,20 +34,6 @@ Machine Learning for facial detection
 
 CSV Database for storing recognized faces
 
-📂 Project Structure
-
-BeyondSight/
-│── models/                  # Trained AI models for detection & recognition
-│── data/                    # CSV database with names and images
-│── audio/                   # Audio files for speech synthesis
-│── src/
-│   │── facial_recognition.py # Recognizes faces and speaks names
-│   │── object_detection.py   # Detects and announces objects
-│   │── speech.py            # Text-to-speech module
-│   │── main.py              # Main application file
-│── requirements.txt         # Dependencies
-│── README.md                # Documentation
-
 🔧 Installation
 
 1️⃣ Clone the Repository
